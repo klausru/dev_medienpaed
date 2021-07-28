@@ -1,6 +1,9 @@
 # dev_medienpaed
 Development documentation of https://www.medienpaed.com. MedienPädagogik. Zeitschrift für Theorie und Praxis der Medienbildung
 
+The general advice is not to touch or change the core unless via pull requests to https://github.com/pkp/ojs and https://github.com/pkp/pkp-lib/ . This maintains upgrade compatibility. Code development for individual installations shall be done within its theme and through plugins. Please share your ```code``` and please contribute to original repositories!
+
+
 ## The core
 * Current OJS Version: 3.2.1.3 -> https://pkp.sfu.ca/ojs/download/ojs-3.2.1-3.tar.gz
 * Preparing for latest OJS Version: 3.3.0.7 -> https://pkp.sfu.ca/ojs/download/ojs-3.3.0-7.tar.gz
@@ -15,7 +18,7 @@ Development documentation of https://www.medienpaed.com. MedienPädagogik. Zeits
 * fully responsive, built with flex divs, order divs for mobile view by ranking
 * semi-generative SVG issue covers built with https://github.com/processing/p5.js and https://github.com/zenozeng/p5.js-svg
 
-## Plugins
+## The plugins
 
 
 ### activated from stock
