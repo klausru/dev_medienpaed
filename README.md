@@ -1,15 +1,19 @@
-# Development documentation of medienpaed.com
-dev_medienpaed
+# dev_medienpaed
+Development documentation of https://www.medienpaed.com. MedienPädagogik. Zeitschrift für Theorie und Praxis der Medienbildung
+
 
 Current OJS Version: 3.2.1.3
 
-Next OJS Version: 3.3.0.7
+Preparing next OJS Version: 3.3.0.7
 
 
-the theme:
+## The theme
+* https://github.com/klausru/medienpaed_hs (based on https://github.com/pkp/healthSciences with intensive modification)
 
-https://github.com/klausru/medienpaed_hs
-
+### Some tricks and features
+* Supports Videoabstracts. Videofiles uploaded as "videoabstract" will be displayed on the landing page
+* fully responsive, built with flex divs, order divs for mobile view by ranking
+* semi-generative SVG issue covers built with https://github.com/processing/p5.js and https://github.com/zenozeng/p5.js-svg
 
 
 ## Plugins
