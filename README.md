@@ -36,6 +36,13 @@ https://github.com/klausru/medienpaed_hs
 
 
 ### from github (via git pull)
+* https://github.com/klausru/announcementEmail
+* https://github.com/klausru/themeIssues
+* https://github.com/klausru/dissertations
+* https://github.com/klausru/jahrbuch
+* https://github.com/klausru/JATSParserPlugin
+* https://github.com/klausru/dnb
+* https://github.com/klausru/browseBySection
 
 
 ### from github via release
