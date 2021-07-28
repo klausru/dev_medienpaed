@@ -17,6 +17,8 @@ The general advice is not to touch or change the core unless via pull requests t
 * Supports Videoabstracts. Videofiles uploaded as "videoabstract" will be displayed on the landing page
 * fully responsive, built with flex divs, order divs for mobile view by ranking
 * semi-generative SVG issue covers built with https://github.com/processing/p5.js and https://github.com/zenozeng/p5.js-svg
+** Version mountains is based on https://github.com/anokhee/generative-landscapes/blob/master/p5js-version/index.js
+** Version waves is based or inspired by https://openprocessing.org/sketch/977554
 
 ## The plugins
 
