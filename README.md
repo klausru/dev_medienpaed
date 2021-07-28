@@ -40,9 +40,10 @@ https://github.com/klausru/medienpaed_hs
 * https://github.com/klausru/themeIssues
 * https://github.com/klausru/dissertations
 * https://github.com/klausru/jahrbuch
-* https://github.com/klausru/JATSParserPlugin
+* https://github.com/klausru/JATSParserPlugin -> locale/de_DE
 * https://github.com/klausru/dnb
 * https://github.com/klausru/browseBySection
 
 
 ### from github via release
+* https://github.com/klausru/JATSParserPlugin
