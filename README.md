@@ -43,7 +43,7 @@ The general advice is not to touch or change the core unless via pull requests t
 * ORCiD Profile
 * OpenAIRE Plugin 2.0
 * Text Editor Extras
-* PKP|PN (PKP Preservation Network) Plugin
+* PKP|PN (PKP Preservation Network) Plugin -> Not working yet. When activated, it kills the plugin and custom locale page in the dashboard. See forum)
 
 
 ### from github (via git pull)
