@@ -33,7 +33,6 @@ The general advice is not to touch or change the core unless via pull requests t
 * COinS
 * QuickSubmit
 * Matomo
-* AddThis
 * Custom Header Plugin
 * Custom Locale Plugin
 * JATS Template Plugin (probably not needed)
@@ -53,8 +52,9 @@ The general advice is not to touch or change the core unless via pull requests t
 * https://github.com/klausru/dissertations
 * https://github.com/klausru/jahrbuch
 * https://github.com/klausru/JATSParserPlugin -> locale/de_DE
-* https://github.com/klausru/dnb
+* https://github.com/klausru/dnb (don't PR changes yet. We need our own filters for diposits)
 * https://github.com/klausru/browseBySection
+* https://github.com/klausru/addThis (initially forked, but we need our own adjustments)
 
 
 ### from github via release
