@@ -20,7 +20,7 @@ The general advice is not to touch or change the core unless via pull requests t
 
 * Fully generative SVG Issue covers. Just add a <svg> background. Content will be retrieved from database. Plugin is in development
 
-* Alternatively: semi-generative SVG issue covers (will be uploaded and live shortly) built with https://github.com/processing/p5.js and https://github.com/zenozeng/p5.js-svg
+* Alternatively: semi-generative SVG issue covers (commented out in the theme, will be removed soon) built with https://github.com/processing/p5.js and https://github.com/zenozeng/p5.js-svg
   * Version mountains is based on https://github.com/anokhee/generative-landscapes/blob/master/p5js-version/index.js
   * Version waves is based or inspired by https://openprocessing.org/sketch/977554
   * colorsets generated through curl and API via http://colormind.io/api-access/
